@@ -1,19 +1,19 @@
-float x;
-float y;
+float x; 
+float y; 
 float t;
-float g = 9.82;
-float v0;
-float x0;
-float y0;
+float g = 9.82; 
+float v0; 
+float x0; 
+float y0; 
 float u0;
-float E;
-float A;
-float m = 1;
-float L = 1;
-float alpha = PI/4;
-float startpunkt = 500;
-float xPixel;
-float yPixel;
+float E; 
+float A; 
+float m = 1; 
+float L = 1; 
+float alpha = PI/4; 
+float startpunkt = 500; 
+float xPixel; 
+float yPixel; 
 
 void setup(){
   size(700,700);
